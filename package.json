@@ -1,0 +1,25 @@
+{
+  "name": "d3-timeline",
+  "version": "1.0.0",
+  "description": "A layout for producing band-style timelines ported to D3.js version 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hysysk/d3-timeline"
+  },
+  "keywords": [
+    "d3",
+    "layout",
+    "hierarchical",
+    "temporal",
+    "timeline"
+  ],
+  "author": "Yosuke Hayashi",
+  "license": "Unlicense",
+  "devDependencies": {
+    "d3": "^4.7.1"
+  }
+}
